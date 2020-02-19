@@ -15,7 +15,7 @@ IP Locator is a web application that provides physical location of ip addresses 
 * Pre-build:
   * Clone the repo
   * `cd` to the repo
-* Build: 
+* Build:
   * `docker-compose build`
   * optional: use `--no-cache`
 * Run: `docker-compose up`
